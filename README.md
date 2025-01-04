@@ -22,7 +22,7 @@ Whether you're teaching a class, conducting a webinar, or giving a presentation,
 
 ## Feedback & Support:
 
-For any questions or feedback, please contact: s.mohammad13@share.epsb.ca
+For any questions or feedback, please contact: [s.mohammad13@share.epsb.ca](mailto:s.mohammad13@share.epsb.ca)
 
 ---
 
